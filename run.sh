@@ -85,7 +85,7 @@ create_default_configs() {
   "upgradeBoosts": true,
   "autoSpin": true,
   "autoUpgrade": true,
-  "lvlToSpin": 4,
+  "lvlToSpin": 4
 }
 EOL
 }
